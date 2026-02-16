@@ -1,7 +1,7 @@
 # Slug Language
 
-**Slug** is a small, opinionated programming language built for **readability**, **explicit control flow**, and *
-*predictable behavior**—with a **functional core** and **structured concurrency**.
+**Slug** is a small, opinionated programming language built for **readability**, **explicit control flow**, and 
+**predictable behavior**—with a **functional core** and **structured concurrency**.
 
 ## What Slug is about
 
