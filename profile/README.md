@@ -12,7 +12,7 @@
 
 ## Quick links
 
-- **Website / Getting started:** https://www.sluglang.org
+- **Website / Getting started:** https://sluglang.org
 - **Main repo:** `slug-lang`
 - **Docs:** developer guide, setup guide, cookbook, and ADRs live in the repo’s `docs/` directory
 
